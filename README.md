@@ -9,8 +9,8 @@ Throughout the class we have aquired tools and learned skills that I will be exp
 ### WHY THIS TOPIC?
 
 I strongly believe that I'm not talking just for myself when I say music is one of the greatest things in life, The great German philosopher
-Friedrich Nietzsche once wrote:\
->"Without music, life would be a mistake.".\
+Friedrich Nietzsche once wrote:
+>"Without music, life would be a mistake.".
 
 I chose this topic because it fuses my two passions, coding and music.
 
