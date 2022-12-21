@@ -34,6 +34,13 @@ the rest of the columns are: **energy**, **instrumentalness**, **key**, **livene
 - What makes a track popular?
 - How can we make a track that will be popular?
 
+### DATA TO DATABASE
+
+in order to convert our dataframes to SQL tables using SQLAlchemy, the database was names **Spotify_data** with two tables **songs** and **info**.
+
+
+### MACHINE LEARNING
+
 
 
 
