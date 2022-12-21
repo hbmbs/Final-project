@@ -29,6 +29,13 @@ The raw dataset has 18 columns:
 - **duration_ms :** an int determining the duration of the track in milliseconds.\
 the rest of the columns are: **energy**, **instrumentalness**, **key**, **liveness**, **loudness**, **mode**, **speechiness**, **tempo**, **time_signature**, **valence** 
 
+### QUESTIONS TO BE ANSWERED
+
+- What makes a track popular?
+- How can we make a track that will be popular?
+
+
+
 
 
 
